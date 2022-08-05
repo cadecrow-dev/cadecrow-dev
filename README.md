@@ -2,7 +2,7 @@
 
 ### I'm Cade Crow
 
-I'm here to make awesome things 
+I'm here to make awesome things.
 
 <!--
 **cadecrow-dev/cadecrow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
